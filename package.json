@@ -1,0 +1,26 @@
+{
+  "name": "CRUD-Nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao03araujo/CRUD-Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joao03araujo/CRUD-Nodejs/issues"
+  },
+  "homepage": "https://github.com/joao03araujo/CRUD-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
